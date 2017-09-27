@@ -43,7 +43,7 @@ Here are how you write some common elements in GFM:
   3. Three! Three list items! A-ha-haaa~~
   ```
 - **code** – Inline code is surrounded by backticks (\`). Multi-line code blocks are surrounded by three backticks:
-  ```
+  ````
   ```
   // this is a block of code
   // it will get highlighted accordingly
@@ -51,4 +51,4 @@ Here are how you write some common elements in GFM:
   var b = 3;
   var c = a + b;
   ```
-  ```
+  ````
