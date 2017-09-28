@@ -29,8 +29,7 @@ https://www.thoughtworks.com/insights/blog/effective-navigation-in-pair-programm
 - A large number of interruptions due to unfamiliarity with the code may 
  indicate the need to switch roles.
 
-#### Roles for Nav and Driver
-[roles](drivernavigator.png "Ven Diagram")
+#### Roles for Nav and Driver: [Ven Diagram of Roles](drivernavigator.png "Ven Diagram")
 
 
 
