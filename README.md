@@ -1,26 +1,21 @@
 
 
 
-# Hi, I'm a paragraph. YAAAAYYYYYYY 
-
-## Me too. I'm another paragraph.
+# Pair Programming Reflection Markdown Learning
 
 
-# I am a top-level heading (H1)
-## I am another heading (H2)
-### More heading (H3)
-#### I am another heading (H4)
-
-1. Snowboarding
-2. Wakeboarding
-3. Hunting
 
 
-```
-var a = 5;
-var b = 3;
-var c = a + b;
-```
+### This class is going well, nothing bad so far!
+### Once we start node / python and such ill have some trouble because its fairly new to me
+
+### this class is awesome, great teachers, great connections, great help
+
+### I looked up a lot of pair programming last night, and I saw common problems of frustration of trying hard not to literally get impatient and take their computer and write the code yourself, if you are the driver.
+
+
+#### I definitely learned new tricks with the pair programming concept, its neat, not sure if I like it but I can see how useful it is.
+
 
 
 [GOOOOOGGGLEEE](https://www.google.com)
