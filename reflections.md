@@ -1,7 +1,7 @@
 # Reflections on Collaborative Coding
 ### ~Carrington Simecheck
 
-##1) Reflections on September 27, 2017 Pair Programming
+## 1) Reflections on September 27, 2017 Pair Programming
 
 Being paired with another web dev in training seemed daunting at first,
 but it was great to see what a fellow classmate's skill set was made up
@@ -11,11 +11,11 @@ pede our ability to meet the MVP, and also allowed us to work as a team
 to help each other correct any syntax errors. I really enjoyed this exer-
 cise.
 
-##2) Readings
+## 2) Readings
 
 -https://www.thoughtworks.com/insights/blog/effective-navigation-in-pair-programming
 
-###Thought's on Effective Navigation In Pair Programming
+### Thought's on Effective Navigation In Pair Programming
 
 -The Navigator is the one taking instruction from the Driver
 -A good Navigator should be concerned about the following:
@@ -30,12 +30,12 @@ cise.
 -A large number of interruptions due to unfamiliarity with the code may 
  indicate the need to switch roles.
 
-###Roles for Nav and Driver
+### Roles for Nav and Driver
 ! [roles](drivernavigator.png "Ven Diagram")
 
 https://collectiveidea.com/blog/archives/2016/07/21/how-to-become-a-better-pair-programmer-part-one
 
-###Thoughts on How to Become a Better Pair Programmer Part One
+### Thoughts on How to Become a Better Pair Programmer Part One
 
 -States the need for standardizing tool configuration for more fluid
  communication and driving.
