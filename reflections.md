@@ -13,8 +13,7 @@ cise.
 
 ## 2) Readings
 
--https://www.thoughtworks.com/insights/blog/effective-navigation-in-pair-programming
-
+https://www.thoughtworks.com/insights/blog/effective-navigation-in-pair-programming
 ### Thought's on Effective Navigation In Pair Programming
 
 - The Navigator is the one taking instruction from the Driver
@@ -31,10 +30,11 @@ cise.
  indicate the need to switch roles.
 
 #### Roles for Nav and Driver
-! [roles](drivernavigator.png "Ven Diagram")
+[roles](drivernavigator.png "Ven Diagram")
+
+
 
 https://collectiveidea.com/blog/archives/2016/07/21/how-to-become-a-better-pair-programmer-part-one
-
 ### Thoughts on How to Become a Better Pair Programmer Part One
 
 - States the need for standardizing tool configuration for more fluid
