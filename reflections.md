@@ -2,6 +2,7 @@
 
 Write your reflections here using [GFM (Github Flavored Markdown)](https://github.github.com/gfm/)
 
+#Francisco Ordaz Reflections: 
 1.Today's pair coding excersizes went fairly well. While the problems were relatively challenging to conceptualize,
 there were almost no keypoints which detered us from advancing for too long. However, I remember getting the 
 City and Country name from the database was particularly painful(Without the earthquake magnitude that is) due
