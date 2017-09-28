@@ -15,9 +15,9 @@ Probably the code concept I had the hardest time talking through was anything ha
 
 My final thought is that I thought it was interesting that people had trouble using the callback function from the html URL... that served our purposes fine, and we had no trouble putting anything on the map. It was a purposeful choice of ours to roll back to this method after our ajax call to the Google Maps API threw an error, and I thought it was interesting that we were the only people in the class who it worked for.
 
-##Part 2
+## Part 2
 
-####Articles I read:
+#### Articles I read:
 - 'Pair Programming' on agilealliance.org
 - '12 Principles of Agile Development' on agilealliance.org
 - 'Pair Programming vs. Code Reviews' on codinghorror.com
