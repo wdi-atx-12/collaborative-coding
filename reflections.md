@@ -17,17 +17,17 @@ cise.
 
 ### Thought's on Effective Navigation In Pair Programming
 
--The Navigator is the one taking instruction from the Driver
--A good Navigator should be concerned about the following:
+- The Navigator is the one taking instruction from the Driver
+- A good Navigator should be concerned about the following:
     1. A clean and safe environment (physically)
     2. Providing a consistent environment (both physically clean 
        and in the design).
--Both the Nav and the Driver need to ensure that they share the same goals,
+- Both the Nav and the Driver need to ensure that they share the same goals,
  as well as the same directives.
--"Lets start with a test for this" is actually some the Nav should say
--A good Nav will allow the driver some time to figure out any mistakes in 
+- "Lets start with a test for this" is actually some the Nav should say
+- A good Nav will allow the driver some time to figure out any mistakes in 
  the code.
--A large number of interruptions due to unfamiliarity with the code may 
+- A large number of interruptions due to unfamiliarity with the code may 
  indicate the need to switch roles.
 
 ### Roles for Nav and Driver
@@ -37,8 +37,8 @@ https://collectiveidea.com/blog/archives/2016/07/21/how-to-become-a-better-pair-
 
 ### Thoughts on How to Become a Better Pair Programmer Part One
 
--States the need for standardizing tool configuration for more fluid
+- States the need for standardizing tool configuration for more fluid
  communication and driving.
--Writer shares opinion that the driver should be the one to dictate the 
+- Writer shares opinion that the driver should be the one to dictate the 
  tool choice.
 
