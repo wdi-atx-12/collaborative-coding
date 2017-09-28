@@ -30,7 +30,7 @@ cise.
 - A large number of interruptions due to unfamiliarity with the code may 
  indicate the need to switch roles.
 
-### Roles for Nav and Driver
+#### Roles for Nav and Driver
 ! [roles](drivernavigator.png "Ven Diagram")
 
 https://collectiveidea.com/blog/archives/2016/07/21/how-to-become-a-better-pair-programmer-part-one
